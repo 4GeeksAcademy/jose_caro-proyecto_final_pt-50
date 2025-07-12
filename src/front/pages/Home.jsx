@@ -36,11 +36,11 @@ export const Home = () => {
 		<div className="text-center mt-5">
 
 			<h1 className="display-4">Hello Rigo!!</h1>
-			<h1 className="display-4">Commit 1 - Frontend Register</h1>
-			<h1 className="display-4">Commit 2 - Frontend Register</h1>
+
+
 			<h1 className="display-4">Hello desde backend-register</h1>
 			<h1 className="display-4">Segundo commit backend-register</h1>
-
+			<h1 className="display-4">Commi 1 - Frontend Register</h1>
 			<p className="lead">
 				<img src={rigoImageUrl} className="img-fluid rounded-circle mb-3" alt="Rigo Baby" />
 			</p>
