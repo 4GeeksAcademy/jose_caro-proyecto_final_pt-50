@@ -36,6 +36,7 @@ export const Home = () => {
 		<div className="text-center mt-5">
 
 			<h1 className="display-4">Hello Rigo!!</h1>
+			<h1 className="display-4">Cambio para render!</h1>
 			<h1 className="display-4">Commit 1 - Frontend Register</h1>
 			<h1 className="display-4">Commit 2 - Frontend Register</h1>
 			<h1 className="display-4">Hello desde backend-register</h1>
